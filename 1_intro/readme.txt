@@ -1,0 +1,1 @@
+This unit provides basic concpets of pytorch and deep neural networks
