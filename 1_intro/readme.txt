@@ -1,1 +1,1 @@
-This unit provides basic concpets of pytorch and deep neural networks
+This unit provides basic concpets of pytorch and deep neural networks using MLP as an example.
