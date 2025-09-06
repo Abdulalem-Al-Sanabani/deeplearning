@@ -1,0 +1,17 @@
+torch>=2.2
+torchvision
+ipykernel
+scikit-learn
+numpy>=1.23
+matplotlib>=3.5
+peft
+pre-commit
+tensorboard
+tensorboardX
+tqdm
+scikit-image
+seaborn
+tokenizers
+transformers
+sacrebleu
+-e exercise-utils
